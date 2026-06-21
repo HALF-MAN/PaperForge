@@ -1,0 +1,23 @@
+[project]
+name = "paperforge-agent-runtime"
+version = "0.1.0"
+description = "Agent runtime for PaperForge crypto strategy research and backtesting."
+requires-python = ">=3.11"
+dependencies = [
+  "agent-framework-core>=1.8.0",
+  "agent-framework-openai>=1.8.0",
+  "certifi>=2025.0.0",
+  "pydantic>=2.0.0",
+  "lancedb>=0.3.0",
+  "numpy>=2.0.0",
+  "openai>=2.0.0",
+  "pandas>=2.0.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.pyright]
+pythonVersion = "3.11"
+typeCheckingMode = "basic"
