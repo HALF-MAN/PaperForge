@@ -20,6 +20,5 @@ __pycache__/
 *.egg-info/
 *.backup
 /CURRENT_PROGRESS.md
-/home.png
 .DS_Store
 npm-debug.log*
