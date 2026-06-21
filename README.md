@@ -4,6 +4,8 @@
 
 PaperForge turns a market question into an evidence-backed, executable strategy. A user can discuss current crypto conditions with an Agent, inspect the data and strategy references it used, generate typed Python code on demand, run a restricted sandbox backtest, and save or share the result.
 
+![home.png](home.png)
+
 > Research and sandbox use only. PaperForge does not place live orders.
 
 ## What to Demonstrate
